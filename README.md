@@ -2,13 +2,13 @@
 # Audit-IRTS
 Audit du site web de l'IRTS
 
-...
+___
 
 # Méthodologie
 
-[Slider](https://issuu.com/margaux.lespagne/docs/grille-audit-siteweb-blog-ecommerce-2012-v2)
+Voir le [slider](https://issuu.com/margaux.lespagne/docs/grille-audit-siteweb-blog-ecommerce-2012-v2)
 
-...
+___
 
 # Les outils
 

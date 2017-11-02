@@ -6,7 +6,7 @@ ___
 
 # Méthodologie
 
-Voir le [slider](https://issuu.com/margaux.lespagne/docs/grille-audit-siteweb-blog-ecommerce-2012-v2)
+[Voir le slider](https://issuu.com/margaux.lespagne/docs/grille-audit-siteweb-blog-ecommerce-2012-v2)
 
 ___
 

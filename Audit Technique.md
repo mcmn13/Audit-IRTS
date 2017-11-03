@@ -1,6 +1,6 @@
 # Audit technique
 
-1) Présence de Partage Sociaux
+## 1) Présence de Partage Sociaux
 
 Mauvaise visibilité ; icones trop basses
 
@@ -16,7 +16,7 @@ Ajouter bouton de partage RS sur les Actualités ?
 
 ___
 
-2) Formulaire de contact
+## 2) Formulaire de contact
 
 La page "Qui sommes-nous" contient les adresses mails de l'équipe
 Mail générique séparé des mails de l'équipe
@@ -26,51 +26,51 @@ Préconisation : mise en place d'un formulaire de contact avec un champs permett
 
 ___
 
-3) Rejet des données saisies
+## 3) Rejet des données saisies
 
 Message prévenant lors d'une erreur d'authentification
 
 ___
 
-4) Contrôle sur la lecture des médias
+## 4) Contrôle sur la lecture des médias
 
 Les vidéos sont hébergées sur Viméo et Youtube.
 Les vidéos intégrées de Youtube se lance uniquement après interaction de l'utilisateur
 
 ___
 
-5) & 6) Newsletter
+## 5) & 6) Newsletter
 
 Aucun espace dédié à l'inscription/désincription d'une newsletter
 
 ___
 
-7) Moteur de recherche dynamique
+## 7) Moteur de recherche dynamique
 
 Le moteur de recherche basique garde un historique des recherches effectuées
 Le moteur de recherche avancé possède 3 champs de recherches dynamiques (Auteur, Mot-clés,Collection) 
 
 ___
 
-8) Flux RSS (en construction)
+## 8) Flux RSS (en construction)
 
 Amélioration de la visibilité via l'ajout d'un icône RSS à la barre de Réseaux Sociaux
 
 ___
 
-9) Page 404
+## 9) Page 404
 
 La page 404 n'est pas personnalisée (nginx)
 
 ___
 
-10) Les balises <title>
+## 10) Les balises <title>
 
 Chaques pages possède un contenu de balise <title> différents
 
 ___
 
-11) Les balises meta "keywords" & "description"
+## 11) Les balises meta "keywords" & "description"
 
 Le contenu des balises meta "keywords" et "description" sont identiques sur toutes les pages du sites avec pour contenu :
 
@@ -79,32 +79,32 @@ Le contenu des balises meta "keywords" et "description" sont identiques sur tout
 
 ___
 
-12) Réecriture des URLs
+## 12) Réecriture des URLs
 
 Les URLs ne sont pas réecritre de manière lisible pour l'utilisateur 
 ("http://crd.irts-pacacorse.com/index.php?lvl=cmspage&pageid=6&id_rubrique=23" et non "http://crd.irts-pacacorse.com/qui-sommes-nous/)
 
 ___
 
-13) Toutes les pages sont accessibles par un lien HTML en dur 
+## 13) Toutes les pages sont accessibles par un lien HTML en dur 
 
 Vérification impossible sans accès au BackOffice
 
 ___
 
-14) Hiérarchisation des titres <h1>/<h2>/<h3>/<h4>/<h5>/<h6>
+## 14) Hiérarchisation des titres <h1>/<h2>/<h3>/<h4>/<h5>/<h6>
 
-<h1> : 1 titre
-<h2> : pas de titre
-<h3> : 35 titres
-<h4> : 5 titres
-<h5> : 6 titres
+'<h1>' : 1 titre
+'<h2>' : pas de titre
+'<h3>' : 35 titres
+'<h4>' : 5 titres
+'<h5>' : 6 titres
 
 Travail de hiérachisation des titres à faire : penser à hiérarchiser l'information !
 
 ___
 
-15) Balises <strong>
+## 15) Balises <strong>
 
 Les mots-clés ne sont pas balisés !
 

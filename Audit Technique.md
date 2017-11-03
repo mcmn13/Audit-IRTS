@@ -28,7 +28,7 @@ ___
 
 ## 3) Rejet des données saisies
 
-Message prévenant lors d'une erreur d'authentification
+Lors de la connexion à l'espace personnel : message prévenant lors d'une erreur d'authentification
 
 ___
 
@@ -92,7 +92,7 @@ Vérification impossible sans accès au BackOffice
 
 ___
 
-## 14) Hiérarchisation des titres <h1>/<h2>/<h3>/<h4>/<h5>/<h6>
+## 14) Hiérarchisation des titres "h1/h2/h3/h4/h5/h6"
 
 h1 : 1 titre
 h2 : pas de titre

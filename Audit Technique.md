@@ -108,11 +108,11 @@ ___
 
 ## 14) Hiérarchisation des titres "h1/h2/h3/h4/h5/h6"
 
-h1 : 1 titre
-h2 : pas de titre
-h3 : 35 titres
-h4 : 5 titres
-h5 : 6 titres
+- h1 : 1 titre
+- h2 : pas de titre
+- h3 : 35 titres
+- h4 : 5 titres
+- h5 : 6 titres
 
 ### Préconisation
 - Travail de hiérachisation des titres à faire : donner un sens à votre document en hiérarchisant l'information !

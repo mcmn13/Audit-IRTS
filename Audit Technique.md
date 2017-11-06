@@ -45,7 +45,7 @@ ___
 
 ## 5) & 6) Newsletter (en construction)
 
-Actuellement, aucun espace dédié à l'inscription/désinscription d'une newsletter
+Actuellement, aucun espace n'est dédié à l'inscription/désinscription d'une newsletter
 
 ___
 
@@ -115,7 +115,7 @@ ___
 - h5 : 6 titres
 
 ### Préconisation
-- Travail de hiérachisation des titres à faire : donner un sens à votre document en hiérarchisant l'information !
+- Travail de hiérachisation des titres à faire : donner un sens à vos documents en hiérarchisant l'information !
 
 ___
 
@@ -123,9 +123,10 @@ ___
 
 Les mots-clés ne sont pas balisés !
 
-Analyse grader.rezoactif.com :  - texte(s) en gras      (1)
-                                - texte(s) en italique  (3)
-                                - texte(s) en soulignés (0)
+Analyse grader.rezoactif.com :  
+- texte(s) en gras      (1)
+- texte(s) en italique  (3)
+- texte(s) en soulignés (0)
 
 ### Préconisation
 - Travail sur mots-clés et intégration dans les pages
